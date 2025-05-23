@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+🚀 KoinX Frontend Assignment — by Narasimha
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the **KoinX Frontend Assignment** – reimagined with a custom login experience and pixel-perfect UI.
 
-## Available Scripts
+🔐 **Login Credentials**
+**USERNAME: narasimha**
+**PASSWORD: 1234**
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🖼️ Demo Preview
 
-### `npm test`
+## Login Page
+![image](https://github.com/user-attachments/assets/e36f9fac-fc5d-46b4-85e8-056467a53757)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Dashboard Preview
+## Dark Mode
+![image](https://github.com/user-attachments/assets/568f7db7-b5f2-4b9f-bcfa-c67862a00f28)
+## Light Mode
+![image](https://github.com/user-attachments/assets/b20c440c-74c1-47e2-85aa-0d35dbe5b104)
+## View More Implementation
+![image](https://github.com/user-attachments/assets/f5973880-4d71-45db-a30a-8d848ebd0316)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> *Clean, responsive UI built for performance and clarity.*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📦 Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- ⚛️ **React.js** – Lightning-fast SPA framework
+- 🎨 **SCSS** (or mention your styling framework)
+- 🔐 **Server-Side Auth Logic using JWT** –  Deployed in railway
+- ⚡ **Create React App** – Fast dev environment
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 1. Clone the Repository
 
-## Learn More
+git clone https://github.com/Narasimha2005/koinx-expenseTracker.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+cd koinx-expenseTracker
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 2. Install Dependencies
 
-### Code Splitting
+**npm install**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 3. Run the Application
+**npm start**
 
-### Analyzing the Bundle Size
+Visit http://localhost:3000 and login using the credentials provided above.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+💡 Features
+✅ Login Page with basic authentication logic
 
-### Making a Progressive Web App
+🧼 Clean UI optimized for clarity and simplicity
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+📱 Responsive Design for mobile and desktop
 
-### Advanced Configuration
+🧩 Modular Components for easy scalability
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🤝 Let's Connect
 
-### Deployment
+Crafted with ❤️ by **Narasimha**  
+🌐 [lmnpro.online](https://lmnpro.online)  
+🔗 [LinkedIn](https://linkedin.com/in/narasimhachitturi)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
