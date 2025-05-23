@@ -1,11 +1,38 @@
-🚀 KoinX Frontend Assignment — by Narasimha
+🚀 Karkhana.io Assignment — by Narasimha
 
-Welcome to the **KoinX Frontend Assignment** – reimagined with a custom login experience and pixel-perfect UI.
+Welcome to the **Karkhana.io Assignment** – reimagined with a custom login experience and pixel-perfect UI.
+
+# 💸 Project Cost Tracker
+
+A mini web app to help users track and manage project-related expenses efficiently. Built with **React**, **Redux Toolkit**, **Chakra UI**, and **Firebase**.
+
+## 🚀 Live Demo
+
+🔗 [Visit the Live App](https://projectcosttracker2.netlify.app/)
 
 🔐 **Login Credentials**
-**USERNAME: narasimha**
-**PASSWORD: 1234**
+**USERNAME: narasimha@gmail.con**
+**PASSWORD: 123456**
 
+## 🔧 Features
+
+- ✅ User authentication (Email/Password)
+- ✅ Add/Edit/Delete project items (hardware, software, services)
+- ✅ Add/Edit/Delete other costs (taxes, shipping, etc.)
+- ✅ Real-time total cost calculation
+- ✅ Persistent cloud storage with Firebase Firestore
+- ✅ Clean and responsive UI with Chakra UI
+
+## 🛠️ Tech Stack
+
+| Layer | Tools |
+|-------|-------|
+| Frontend | React.js |
+| State Management | Redux Toolkit |
+| UI Library | Chakra UI |
+| Backend | Firebase Firestore |
+| Auth | Firebase Authentication |
+| Hosting | Netlify |
 
 
 ---
@@ -13,44 +40,35 @@ Welcome to the **KoinX Frontend Assignment** – reimagined with a custom login 
 ## 🖼️ Demo Preview
 
 ## Login Page
-![image](https://github.com/user-attachments/assets/e36f9fac-fc5d-46b4-85e8-056467a53757)
+![image](https://github.com/user-attachments/assets/2d5ab21a-dcdb-401a-8b01-b41421428aad)
+
 
 ## Dashboard Preview
-## Dark Mode
-![image](https://github.com/user-attachments/assets/568f7db7-b5f2-4b9f-bcfa-c67862a00f28)
-## Light Mode
-![image](https://github.com/user-attachments/assets/b20c440c-74c1-47e2-85aa-0d35dbe5b104)
-## View More Implementation
-![image](https://github.com/user-attachments/assets/f5973880-4d71-45db-a30a-8d848ebd0316)
+![image](https://github.com/user-attachments/assets/2195384b-c7f4-483f-9e51-855f3f86b24e)
+![image](https://github.com/user-attachments/assets/b82fddc5-92d3-40bd-8a2f-4188cce927a9)
+
+## NotFound page
+![image](https://github.com/user-attachments/assets/48c9f931-852e-402d-955f-f33ffe3c5cc0)
 
 
 
 > *Clean, responsive UI built for performance and clarity.*
 
----
-
-## 📦 Tech Stack
-
-- ⚛️ **React.js** – Lightning-fast SPA framework
-- 🎨 **SCSS** (or mention your styling framework)
-- 🔐 **Server-Side Auth Logic using JWT** –  Deployed in railway
-- ⚡ **Create React App** – Fast dev environment
-
----
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Narasimha2005/koinx-expenseTracker.git
+git clone https://github.com/Narasimha2005/ProjectcostTracker.git
 
-cd koinx-expenseTracker
+cd ProjectcostTracker
 
 ### 2. Install Dependencies
 
 **npm install**
 
 ### 3. Run the Application
+
 **npm start**
 
 Visit http://localhost:3000 and login using the credentials provided above.
