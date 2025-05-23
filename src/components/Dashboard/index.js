@@ -59,7 +59,7 @@ const Dashboard = () => {
     };
 
     fetchTransactions();
-  }, [auth.currentUser]);
+  }, [auth.currentUser,db]);
 
 
 
