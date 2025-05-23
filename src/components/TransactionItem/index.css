@@ -1,0 +1,31 @@
+.list-item {
+    border: solid 1px #cbd5e1;
+    border-top-width: 0px;
+    padding-left: 30px;
+  }
+  .list-element-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  .list-element {
+    font-size: 15px;
+    color: #334155;
+    margin: 10px;
+    width: 30%;
+  }
+  .delete-button {
+    background-color: transparent;
+    border: solid 0px;
+  }
+  .delete-icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+  .list-element-description{
+    font-size: 15px;
+    color: #334155;
+    margin: 10px;
+  }
